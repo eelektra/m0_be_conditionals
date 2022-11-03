@@ -1,4 +1,4 @@
-integer = 3
+integer = 0
 
 if integer % 2 == 0
     puts "#{integer} is an even number"
